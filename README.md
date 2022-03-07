@@ -2,7 +2,7 @@
 
 ## About
 
-I’m **StarEngraver**, a code learner from China.
+I’m **[StarEngraver](https://blog.starengraver.me)**, a code learner from China.
 
 ## Reach Me
 
