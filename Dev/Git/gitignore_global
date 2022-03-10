@@ -1,4 +1,9 @@
 # macOS
+**/._.DS_Store
+**/.DS_Store?
+**/.DS_Store
+._.DS_Store
+.DS_Store?
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -15,3 +20,18 @@
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
