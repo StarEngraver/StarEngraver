@@ -2,8 +2,13 @@
 
 ## About
 
-I’m **[StarEngraver](https://blog.starengraver.me)**, a code learner from China.
+I’m **StarEngraver**, a code learner from China.
 
 ## Reach Me
 
-- Mail: [hi@starengraver.me](mailto:hi@starengraver.me)
+- Blog:
+  - GitHub Pages: [StarGallery](https://blog.starengraver.me)
+- Games:
+  - Steam: [StarEngraver](https://steamcommunity.com/id/StarEngraver/)
+- Contact:
+  - Email: [hi@starengraver.me](mailto:hi@starengraver.me)
