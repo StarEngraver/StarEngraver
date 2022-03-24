@@ -1,6 +1,6 @@
-# :wave: Hi, there
+# Greetings from China :cn:
 
-## About
+## :wave: Hi, there~
 
 I’m **StarEngraver**, a code learner from China.
 
