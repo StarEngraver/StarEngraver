@@ -1,4 +1,4 @@
-# Greetings from China :cn:
+# Greetings from China ~
 
 ## :wave: Hi, there~
 
