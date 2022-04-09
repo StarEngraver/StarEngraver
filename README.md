@@ -1,8 +1,8 @@
-# Greetings from China ~
+# Greetings ~
 
 ## :wave: Hi, there~
 
-I’m **StarEngraver**, a code learner from China and glad to meet new friends.
+I’m **StarEngraver**, a code learner and glad to meet new friends.
 
 ## Reach Me
 
