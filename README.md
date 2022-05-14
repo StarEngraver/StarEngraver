@@ -2,7 +2,7 @@
 
 ## Greetings
 
-I’m **StarEngraver**, a code learner and glad to meet new friends.
+I’m **StarEngraver**, a code learner from China and glad to meet new friends.
 
 ## Social
 
