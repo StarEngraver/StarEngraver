@@ -1,10 +1,10 @@
 # :wave: Hi, there~
 
-## Greetings
+## :thinking:Greetings
 
 I’m **StarEngraver**, a code learner from China and glad to meet new friends.
 
-## Social
+## :telescope:Social
 
 - Blogs:
   - Deployed on GitHub Pages: [StarGallery](https://blog.starengraver.me) - (Presented in Simplified Chinese and English)
@@ -13,6 +13,6 @@ I’m **StarEngraver**, a code learner from China and glad to meet new friends.
 - Games:
   - Steam: [StarEngraver](https://steamcommunity.com/id/StarEngraver/)
 
-## Contact
+## :mailbox:Contact
 
 - Email: [hi@starengraver.me](mailto:hi@starengraver.me)
