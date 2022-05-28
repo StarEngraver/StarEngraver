@@ -9,7 +9,7 @@ Currently working on iOS App and RimWorld's mods.
 ## :telescope:Social
 
 - Blogs:
-  - Deployed on GitHub Pages: [StarGallery](https://blog.starengraver.me) - (Presented in Simplified Chinese and English)
+  - Deployed on GitHub Pages: [StarGallery](https://blog.starengraver.me/en) - (Presented in Simplified Chinese and English)
   - Deployed on Cloud Server: [SnowPrayer](https://www.noinverse.cn) - (Presented in Simplified Chinese)
 
 - Games:
