@@ -2,9 +2,9 @@
 
 ## :star2: Greetings
 
-I’m **StarEngraver**, a code learner from China and glad to meet new friends.
+I’m **StarEngraver**, a coder from China and glad to meet new friends.
 
-Currently working on iOS App and RimWorld's mods.
+Currently working on iOS App (Swift) and RimWorld's mods (C#).
 
 ## :telescope: Social
 
