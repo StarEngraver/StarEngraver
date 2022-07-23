@@ -14,7 +14,5 @@ Currently working on iOS App (Swift) and RimWorld's mods (C#).
 
 - :video_game: Games:
   - Steam: [StarEngraver](https://steamcommunity.com/id/StarEngraver/)
-
-## :mailbox: Contact
-
-- :e-mail: Email: [hi@starengraver.me](mailto:hi@starengraver.me)
+  - PSN: StarSculptor
+  - Xbox: StarEngraver
