@@ -2,9 +2,16 @@
 
 ## :star2: Greetings
 
-I’m **Sean Yu** aka *StarEngraver*, a coder and glad to meet new friends.
+**Sean Yu** aka _StarEngraver_
 
-Currently working on iOS App (Swift) and RimWorld's mods (C#).
+Grasp All, Lose All.
+
+Coding for fun.
+
+- Software Engineer
+- Lifelong Learner
+- Data Security
+- Cloud Native
 
 ## :mailbox: Reach me
 
